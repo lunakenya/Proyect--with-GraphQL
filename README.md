@@ -31,6 +31,6 @@ This project is a basic "Hello, World!" GraphQL API built with **Node.js** and *
 Running the Application
 Start the Apollo Server:
    ```bash
-   npm run start
+   npm run dev
    ```
 Expose the application using Ngrok:
