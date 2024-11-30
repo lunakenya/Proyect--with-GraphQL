@@ -23,15 +23,14 @@ This project is a basic "Hello, World!" GraphQL API built with **Node.js** and *
 1. Clone this repository:
    ```bash
    git clone 
-
+   ```
 2. Install dependencies:
-```bash
+   ```bash
     npm install
-
-3. Running the Application
-
-    Start the Apollo Server:
-```bash
-npm run start
-
+   ```
+Running the Application
+Start the Apollo Server:
+   ```bash
+   npm run start
+   ```
 Expose the application using Ngrok:
