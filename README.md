@@ -22,7 +22,7 @@ This project is a basic "Hello, World!" GraphQL API built with **Node.js** and *
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/lunakenya/Proyect--with-GraphQL.git
    ```
 2. Install dependencies:
    ```bash
