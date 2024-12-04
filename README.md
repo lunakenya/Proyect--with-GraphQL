@@ -42,4 +42,3 @@ Test the query in the playground: In the interface, run this query:
 You should get:
 ![imagen](https://github.com/user-attachments/assets/9cf6b4fc-cca9-41f2-85c7-c613f7c50baf)
 
-Expose the application using Ngrok:
